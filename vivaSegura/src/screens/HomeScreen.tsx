@@ -16,7 +16,6 @@ export default function HomeScreen({ navigation }: { navigation: any }) {
             <Button 
             title='Ativar' 
             onPress={() => navigation.navigate('form')}
-            color={"#1569e7"}
             />
         </View>
     </ImageBackground>
@@ -54,4 +53,11 @@ const styles = StyleSheet.create({
     backgroundColor:'#ffffffff',
     borderRadius: 5,
   },
+    button: {
+        color: '#1569e7',
+        marginTop: 20,
+        backgroundColor: '#ffffff',
+        padding: 10,
+        borderRadius: 5,
+    },
 });

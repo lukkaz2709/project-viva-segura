@@ -85,7 +85,8 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: 'bold',
         marginBottom: 10,
-        textAlign: 'center'
+        textAlign: 'center',
+        color: '#fff'
   },
     input: {
         backgroundColor: '#fff',
