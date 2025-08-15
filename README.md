@@ -2,9 +2,13 @@
 
 <img src=".github/assets/logo-vivaSegura.png" alt="Logo VivaSegura" width="250" style="display:block;margin:auto"/>
 
+## 📲 Capturas de Tela
+                                          | HOME | FORMULÁRIO|
+<p align="center">
+  <img src=".github/assets/home.png" alt="HomeScreen" width="200"/>
+  <img src=".github/assets/form.png" alt="FormScreen" width="200"/>
+</p>
 
-![HomeScreen](.github/assets/Home.png)
-![FormScreen](.github/assets/Formulario.png)
 
 
 ## Descrição
