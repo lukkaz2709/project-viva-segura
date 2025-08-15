@@ -1,5 +1,12 @@
 # Projeto VivaSegura
 
+<img src=".github/assets/logo-vivaSegura.png" alt="Logo VivaSegura" width="250" style="display:block;margin:auto"/>
+
+
+![HomeScreen](.github/assets/Home.png)
+![FormScreen](.github/assets/Formulario.png)
+
+
 ## Descrição
 Aplicativo mobile desenvolvido com **React Native** e **Expo**, com foco em:  
 
@@ -77,5 +84,3 @@ Instale Expo Go e escaneie o QR Code do terminal.
 
 
 
-![HomeScreen](.github/assets/Home.png)
-![FormScreen](.github/assets/Formulario.png)
