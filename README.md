@@ -77,5 +77,5 @@ Instale Expo Go e escaneie o QR Code do terminal.
 
 
 
-![HomeScreen]('../assets/Home.png')
-![FormScreen]('../assets/Formulario.png')
+![HomeScreen](.github/assets/Home.png)
+![FormScreen](.github/assets/Formulario.png)
